@@ -35,5 +35,5 @@
 </div> -->
 
 <div align="center">
-    <img src="./assets/README.svg" width="400" height="400" alt="css-in-readme">
+    <img src="./assets/README.svg" alt="css-in-readme">
 </div>
