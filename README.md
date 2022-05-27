@@ -21,7 +21,7 @@
 </p>
 
 <div align="center">
-    <img src="./assets/github-user-contribution.svg" alt="css-in-readme">
+    <img src="./Assets/snk.svg" alt="css-in-readme">
 </div>
 
 
