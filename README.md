@@ -20,6 +20,10 @@
     </a>
 </p>
 
+<div align="center">
+    <img src="./assets/github-user-contribution.svg" alt="css-in-readme">
+</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="rocharobson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,3 +37,4 @@
   <img align="center" alt="rocharobson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="rocharobson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
