@@ -1,6 +1,6 @@
- <h3> Olá, bem vindo ao meu perfil pessoal no GitHub 👋 </h3>
- 
- <P>Meu nome é <b>Robson Bezerra Costa</b>, e atualmente sou estudante do 6º período da graduação de Ciência da Computação na Universidade Estácio de Sá.</p>
+<!-- <h3> Olá, bem vindo ao meu perfil pessoal no GitHub 👋 </h3>
+
+<P>Meu nome é <b>Robson Bezerra Costa</b>, e atualmente sou estudante do 6º período da graduação de Ciência da Computação na Universidade Estácio de Sá.</p>
  
 <p align="left">
     <a href="https://twitter.com/rocharobson_" target="_blank">
@@ -32,4 +32,8 @@
   <img align="center" alt="rocharobson-SASS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   <img align="center" alt="rocharobson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="rocharobson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div> -->
+
+<div align="center">
+    <img src="./example.svg" width="400" height="400" alt="css-in-readme">
 </div>
