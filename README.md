@@ -21,6 +21,6 @@
 </p>
 
 <div align="center">
-    <img align="center" src="./Artboard 1.svg"/>
+    <img align="center" src="./Artboard 4.svg"/>
 </div>
 
