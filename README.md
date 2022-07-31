@@ -21,9 +21,11 @@
     <img align="center" src="./Artboard 11.svg"/>
 </div>
 
-<p>_</p>
+
 
 <div align="center">
-    <img align="center" src="./Artboard 13.svg"/>
+ <p>
+  <img align="center" src="./Artboard 13.svg"/>
+ </p>
 </div>
 
