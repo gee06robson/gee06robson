@@ -1,6 +1,6 @@
 <h3> Olá, bem vindo ao meu perfil pessoal no GitHub 👋 </h3>
 
-<P>Meu nome é <b>Robson Bezerra Costa</b>, e atualmente sou estudante do 6º período da graduação de Ciência da Computação na Universidade Estácio de Sá.</p>
+<P>Sou desenvolvedor Full-Stack, tenho 4 anos de experiência com desenvolvimento de aplicações modernas com Javascript. Durante minha breve passagem pelas forças armadas, pude idealizar, desenvolver e manutenir o Sistema de Gerenciamento de Documentos Fiscais. Possuo grande conhecimento em construção de APIs e Interfaces modernas com uso das melhores tecnologias como ReactJs, AngularJs e NextJs. Atualmente estou cursando o sétimo período de Ciência da Computação e busco construir uma carreira promissora como DEV.</p>
  
 <p align="left">
     <a href="https://twitter.com/rocharobson_" target="_blank">
