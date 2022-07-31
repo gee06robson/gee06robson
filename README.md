@@ -6,11 +6,11 @@
   <a href="https://twitter.com/rocharobson_" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-rocharobson⎽-312f51?style=flat&logo=twitter" alt="twitter"/>  
   </a>
+   <a href="https://www.instagram.com/rocharobson_" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-rocharobson⎽-312f51?style=flat&logo=instagram" alt="instagram"/>
+  </a>
   <a href="https://www.linkedin.com/in/robson-bezerra-costa-353aa089" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Robson-312f51?style=flat&logo=linkedin" alt="linkedin"/>
-  </a>
-  <a href="https://www.instagram.com/rocharobson_" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-rocharobson⎽-312f51?style=flat&logo=instagram" alt="instagram"/>
   </a>
   <a href="https://drive.google.com/file/d/1_N0GtkdvGsyNXgThFFz3KEowP0r9G6-Q/view?usp=sharing" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Curr%C3%ADculo-312f51?style=flat" alt="Currículo"/>
