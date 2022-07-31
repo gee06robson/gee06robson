@@ -21,6 +21,6 @@
 </p>
 
 <div align="center">
-    <img align="center" src="./my git.svg"/>
+    <img align="center" src="./my git-tecs.svg"/>
 </div>
 
