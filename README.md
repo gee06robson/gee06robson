@@ -12,9 +12,6 @@
   <a href="https://www.instagram.com/rocharobson_" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-rocharobson⎽-312f51?style=flat&logo=instagram" alt="instagram"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCw82vuXMFttN55oolrpsozA" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Robson_Rocha-312f51?style=flat&logo=youtube" alt="youtube"/>
-  </a>
   <a href="https://drive.google.com/file/d/1_N0GtkdvGsyNXgThFFz3KEowP0r9G6-Q/view?usp=sharing" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Curr%C3%ADculo-312f51?style=flat" alt="Currículo"/>
   </a>
