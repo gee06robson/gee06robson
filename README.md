@@ -24,8 +24,7 @@
 
 
 <div align="center">
- <p>
+ <p>Do More | Faça mais</p>
   <img align="center" src="./Artboard 13.svg"/>
- </p>
 </div>
 
